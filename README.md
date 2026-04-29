@@ -80,7 +80,7 @@ RAUWANIKUNARAIMADARO!!!
 ラウワンにつく
 <style>
 body {
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1m3i5XPskU0jGNCsKXxEw4ppdyOc9ANxhoatmE5qUQ&s");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGAsek2JzLiZsRY49cZwXEvG_y7q4frh5gOwLfPIJaTA&s=10");
   background-size: cover;
 }
 </style>
