@@ -41,12 +41,12 @@ RAUWANIKUNARAIMADARO!!!
 
   <div class="box">
     <h2>📍 場所</h2>
-    <p>ラウンドワン〇〇店</p>
+    <p>ラウンドワン秋田店</p>
   </div>
 
   <div class="box">
     <h2>🕒 時間</h2>
-    <p>〇月〇日　〇時集合！</p>
+    <p>5月一日　八時半集合！</p>
   </div>
 
   <div class="box">
@@ -64,7 +64,6 @@ RAUWANIKUNARAIMADARO!!!
   <div class="box">
     <h2>📢 メッセージ</h2>
     <p>行動内容（ はるや作）
-      
 日付5月1日　時間8時半
 にかほ駅に集合
 　　↓
