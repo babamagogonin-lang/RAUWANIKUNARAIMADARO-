@@ -77,5 +77,10 @@ RAUWANIKUNARAIMADARO!!!
 　　→
 徒歩3分
 　　→
-ラウワンにつく/p>
-  </div>
+ラウワンにつく
+<style>
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx1m3i5XPskU0jGNCsKXxEw4ppdyOc9ANxhoatmE5qUQ&s");
+  background-size: cover;
+}
+</style>
