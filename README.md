@@ -52,7 +52,8 @@ RAUWANIKUNARAIMADARO!!!
   </div>
 
   <div class="box">
-    <h2>🗺️ 地図</h2><ahref="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tzeGNGZHliSFJGY1hSSVZHVmZSMk4zZEU5U1NsRRAB!2m1!1s0x0:0x2324f4ad1a218a54!3m1!1s2@1:CAIQACodChtycF9oOksxcFdybHRFcXRIVGVfR2N3dE9SSlE%7C%7C?hl=ja&g_ep=Eg1tbF8yMDI2MDQyMl8wKgBIAlAB" target="_blank">
+    <h2>🗺️ 地図</h2>
+    <a href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tzeGNGZHliSFJGY1hSSVZHVmZSMk4zZEU5U1NsRRAB!2m1!1s0x0:0x2324f4ad1a218a54!3m1!1s2@1:CAIQACodChtycF9oOksxcFdybHRFcXRIVGVfR2N3dE9SSlE%7C%7C?hl=ja&g_ep=Eg1tbF8yMDI2MDQyMl8wKgBIAlAB
       <button>地図を見る</button>
     </a>
   </div>
